@@ -1,7 +1,0 @@
-svg {
-    border: 1px solid #ccc; /* Optional: for visibility */
-  }
-  
-  .grid-group circle {
-    stroke: none; /* Remove any stroke from dots */
-  }
